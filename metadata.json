@@ -14,7 +14,7 @@
       "version_requirement": ">= 4.6.0 <5.0.0"
     },
     {
-      "name": "puppet/archive",
+      "name": "puppet/archive"
     }
   ],
   "operatingsystem_support": [
